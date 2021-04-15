@@ -1,0 +1,29 @@
+.slide-background{
+    background-color: #FCEAE8;
+    border-radius: .7em;
+}
+
+.panda-button {
+   background-color: #FF418C;
+   border-radius: .4em;
+   color: white;
+}
+.h2-color{
+    color:#FF136F;
+}
+
+.categories img{
+    width: 100px;
+}
+.card-style, .card-style .card-footer{
+    border: none;
+    background-color: white;
+}
+.card-style{
+    border-radius: .6em;
+}
+.footer-style{
+    background-color: #FCEAE8;
+    min-height: 250px;
+    border-radius: .7em;
+}
